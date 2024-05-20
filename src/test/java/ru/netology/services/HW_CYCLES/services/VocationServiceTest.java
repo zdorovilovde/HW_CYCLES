@@ -1,5 +1,8 @@
+package ru.netology.services.HW_CYCLES.services;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+//import ru.netology.services.HW_CYCLES.services.VocationService;
 
 
 public class VocationServiceTest {

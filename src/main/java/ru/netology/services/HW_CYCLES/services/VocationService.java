@@ -1,3 +1,5 @@
+package ru.netology.services.HW_CYCLES.services;
+
 public class VocationService {
     public int calculateVocationMonth(int income, int expenses, int threshold) {
         int money = 0;
