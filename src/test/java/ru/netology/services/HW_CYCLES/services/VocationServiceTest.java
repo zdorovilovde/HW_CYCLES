@@ -16,6 +16,7 @@ public class VocationServiceTest {
 
         Assertions.assertEquals(expected, actual);
     }
+
     @Test
     public void test2() {
         VocationService vocationService = new VocationService();
